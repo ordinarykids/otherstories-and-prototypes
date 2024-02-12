@@ -10,27 +10,7 @@
 
     let formattedMessages;
 
-    //iterate of messages one by one and format them with svelte-markdown
-    
 
-    // import { Configuration, OpenAIApi } from 'openai';
-
-    // let response;
-
-    // onMount(async () => {
-    // const configuration = new Configuration({
-    //     apiKey: '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',
-    // });
-    // const openai = new OpenAIApi(configuration);
-
-    // let response = await openai.createCompletion({
-    //     model: "text-davinci-003",
-    //     prompt: "Hello world", 
-    //     max_tokens: 100
-    // });
-
-    // response = response.data.choices[0].text;
-    // });
 </script>
 
 
